@@ -10,7 +10,7 @@ tabluation of services provided by different cloud providers
 | Compute Engine   | You can procure VMs, GPUs, TPUs, Disks with this | Compute          |
 |                 |                                                              |                                    |
 
-[source](https://cloud.google.com/terms/services)
+[source1](https://cloud.google.com/terms/services), [source2](https://cloud.google.com/blog/topics/developers-practitioners/back-popular-demand-google-cloud-products-4-words-or-less-2021-edition)
 
 ## Amazon Web Services
 
