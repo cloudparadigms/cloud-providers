@@ -1,6 +1,13 @@
 # cloud-providers
 tabluation of services provided by different cloud providers
 
+| Cloud Provider         | Parent company                                          | Link                              |
+| --------------- | ------------------------------------------------------------ | ---------------------------------- |
+| Amazon Web Services      | Amazon | [aws](https://aws.amazon.com/) |
+| Microsoft Azure   | Microsoft | [azure](https://azure.microsoft.com/en-us/)          |
+| Google Cloud Platform   | Google | [gcp](https://cloud.google.com/)          |
+
+
 ## Google Cloud Platform
 
 
